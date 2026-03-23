@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111912410978",
+    "project_id": "btlnhom15",
+    "storage_bucket": "btlnhom15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111912410978:android:5fc565d402d33c7b10d63b",
+        "android_client_info": {
+          "package_name": "com.example.btl_nhom_15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn9i4p4HiYjbVfgaBGXrDUZsJqCh-RFRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
